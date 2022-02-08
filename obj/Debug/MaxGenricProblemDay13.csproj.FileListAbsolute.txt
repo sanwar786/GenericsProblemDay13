@@ -1,0 +1,8 @@
+C:\Users\shaba\source\repos\MaxGenricProblemDay13\MaxGenricProblemDay13\bin\Debug\MaxGenricProblemDay13.exe.config
+C:\Users\shaba\source\repos\MaxGenricProblemDay13\MaxGenricProblemDay13\bin\Debug\MaxGenricProblemDay13.exe
+C:\Users\shaba\source\repos\MaxGenricProblemDay13\MaxGenricProblemDay13\bin\Debug\MaxGenricProblemDay13.pdb
+C:\Users\shaba\source\repos\MaxGenricProblemDay13\MaxGenricProblemDay13\obj\Debug\MaxGenricProblemDay13.csproj.AssemblyReference.cache
+C:\Users\shaba\source\repos\MaxGenricProblemDay13\MaxGenricProblemDay13\obj\Debug\MaxGenricProblemDay13.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaba\source\repos\MaxGenricProblemDay13\MaxGenricProblemDay13\obj\Debug\MaxGenricProblemDay13.csproj.CoreCompileInputs.cache
+C:\Users\shaba\source\repos\MaxGenricProblemDay13\MaxGenricProblemDay13\obj\Debug\MaxGenricProblemDay13.exe
+C:\Users\shaba\source\repos\MaxGenricProblemDay13\MaxGenricProblemDay13\obj\Debug\MaxGenricProblemDay13.pdb
